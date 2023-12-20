@@ -8,6 +8,11 @@ Universidad de Granada.
 
 **Dirección: María José Sánchez Pérez, José Juan Jiménez Moleón.**
 
+### [Tesis (PDF)](https://github.com/danielredondo/Tesis/raw/main/tesis.pdf)
+
+### [Presentación (PDF)](https://github.com/danielredondo/Tesis/raw/main/presentacion.pdf)
+
+
 ## Resumen
 
 **Introducción:**  El cáncer es un grave problema de salud pública, siendo los cánceres de pulmón, mama y colon-recto los más frecuentes en términos de incidencia y mortalidad. Se sabe que el nivel socioeconómico es un factor que puede influir de manera determinante en los principales indicadores epidemiológicos del cáncer. En España, la evidencia científica sobre el impacto de las desigualdades socioeconómicas en el cáncer es limitada.
